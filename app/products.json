@@ -1,0 +1,27 @@
+[
+  {
+    "product_id": "1",
+    "product_name": "Apples",
+    "product_image": "https://kitchenmason.com/wp-content/uploads/2023/06/How-to-cut-an-apple-SQUARE.jpg"
+  },
+  {
+    "product_id": "2",
+    "product_name": "Bread",
+    "product_image": "https://www.ambitiouskitchen.com/wp-content/uploads/2019/04/Multi-Grain-Seedy-Sandwich-Bread-Edited-5sq.jpg"
+  },
+  {
+    "product_id": "3",
+    "product_name": "Beef",
+    "product_image": "https://goodstuff.recipes/wp-content/uploads/2021/08/Sous-vide-roast-beef-1200-500x500.jpeg"
+  },
+  {
+    "product_id": "4",
+    "product_name": "Chicken",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPB8y71M2uIodfH0TSCZytopVJu4SgB1r0A&s"
+  },
+  {
+    "product_id": "5",
+    "product_name": "Sunflower Oil",
+    "product_image": "https://cdn.shopify.com/s/files/1/2157/6253/files/Ingredient-Oil-Sunflower_da679c66-0184-454a-b154-eb762a99df15_480x480.jpg?v=1675712293"
+  }
+]
